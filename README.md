@@ -1,5 +1,6 @@
 # XPET自动每日任务小工具使用教程
 1.工具目录结构
+
 ![image](https://github.com/weideyyds/xpet_auto_chest/assets/155040240/9f972b52-b105-4595-ba96-65305cdab284)
 
 目录结构如上图，
