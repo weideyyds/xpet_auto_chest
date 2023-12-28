@@ -6,7 +6,7 @@
 目录结构如上图，
 Authorization.txt是存放xpet授权信息的文件，
 ids.txt是回复过评论的推文ID文件
-MD5验证工具.exe这个是验证文件的md5的，md5我将放到我的推特里面，请大家仔细核对，如果md5值不正确，可能文件已经被非法修改了
+MD5验证工具.exe这个是验证文件的md5的，md5我将放到Releases的版本描述里面，请大家仔细核对，如果md5值不正确，可能文件已经被非法修改了
 xpet自动每日任务_V1.0.exe是主要执行的exe文件
 
 2.获取Authorization
