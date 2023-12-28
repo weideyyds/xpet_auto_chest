@@ -35,3 +35,7 @@ xpet自动每日任务_V1.0.exe是主要执行的exe文件
 如果成功了就会显示得到的任务奖励，如果有错误请反馈给我
 下图就是已经完成任务领取过宝箱的情况
 ![image](https://github.com/weideyyds/xpet_auto_chest/assets/155040240/663ec909-6e6d-437a-b4bb-c7b910f3a8de)
+
+小号领取还能领取到币，看看能不能白嫖到10级
+![image](https://github.com/weideyyds/xpet_auto_chest/assets/155040240/854d3425-6170-4dc9-9a77-bb348303bfb3)
+
